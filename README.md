@@ -1,4 +1,17 @@
 <img src="/banner.png" alt="banner">
-Hi, I'm Junior! I'm a self-taught Web Developer, currently located in Toronto, Canada. I am a passionate and proactive individual with 10 years experience in the culinary industry, which has proven to translate to my keen eye for detail and love for creation. <br>
-I have gained solid foundational knowledge and skills during my Web Developer Bootcamp such as HTML5, CSS3, JavaScript, Flexbox, Bootstrap, NodeJS, ExpressJS, DOM Manipulation, REST, SQL, MongoDB, Schema Design, and Cloud Databases. <br>
-I am currently enrolled at Juno College taking a JavaScript course to further strengthen my knowledge.
+<h1 align="center">Hi 👋, I'm Reynaldo Junior Bagsic</h1>
+<h3 align="center">A passionate frontend developer from Toronto, Ontario, Canada</h3>
+
+- 🌱 I’m currently learning **React**
+
+- 📫 How to reach me **rjbagsic_@hotmail.com**
+
+- ⚡ Fun fact **I am a professionally trained Chef with 10+ years in the culinary industry**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rjbagsic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rjbagsic/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
